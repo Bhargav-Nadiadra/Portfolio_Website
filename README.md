@@ -5,7 +5,7 @@ This is my Portfolio Website made using HTML, CSS, JavaScript and Bootstrap
 
 
 ## 🚀 About Me
-I'm a full stack developer...
+I'm a web developer...
 
 
 ## Demo
